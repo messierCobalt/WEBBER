@@ -11,16 +11,17 @@ Hey, you're still here
 Are you like me
 On this repo so you can be
 Lost and numb
-In a warm bath made of—*content*:
-- **pager** — a simple pager simulator.
+In a warm bath made of *content*:
+- **R3TROterminal** — just what it says... I simple pranky oldie terminal simulator.
+- **yourMission** — a mission impossible fan made online shrine.
 
 ---
 
 **SIDE NOTES**:
-- I JUST WRITE THESE CODES IN INTEND OF NOT FORGET ANY HTML | CSS... AND LEARN SOME MORE.
-- NO AI WAS HURT WHILE MAKING THIS REPO.
-- IF YOU HAVE ANY TROUBLE. PLEASE REPORT, I MEAN ISSUE. 
-- **AND HEY**... DON'T FORGET TO DEBUG YOUR LIFE, WHEN NEEDED.
+>- I JUST WRITE THESE CODES IN INTEND OF NOT FORGET ANY HTML | CSS... AND LEARN SOME MORE.
+>- NO AI WAS HURT WHILE MAKING THIS REPO.
+>- IF YOU HAVE ANY TROUBLE. PLEASE REPORT, I MEAN ISSUE. 
+>- **AND HEY**... DON'T FORGET TO DEBUG YOUR LIFE, WHEN NEEDED.
 ---
 
 Hey, are you alright

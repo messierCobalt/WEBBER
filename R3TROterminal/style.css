@@ -1,0 +1,38 @@
+body {
+      margin: 0;
+      height: 100vh;
+      background: black;
+      color: #0f0;
+      font-family: 'Courier New', monospace;
+      overflow: hidden;
+    }
+    #terminal {
+      padding: 20px;
+      height: 100%;
+      overflow-y: auto;
+      box-sizing: border-box;
+      font-size: 1.1rem;
+      line-height: 1.5;
+    }
+    .line {
+      white-space: pre-wrap;
+    }
+    .cursor {
+      display: inline-block;
+      width: 6px;
+      background: #0f0;
+      animation: blink 1s steps(2) infinite;
+      margin-left: 2px;
+    }
+    @keyframes blink {
+      0%, 50% { opacity: 1; }
+      51%, 100% { opacity: 0; }
+    }
+    input {
+      background: transparent;
+      border: none;
+      color: #0f0;
+      font: inherit;
+      outline: none;
+      width: 80%;
+    }
