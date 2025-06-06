@@ -12,8 +12,7 @@ Are you like me
 On this repo so you can be
 Lost and numb
 In a warm bath made of *content*:
-- **R3TROterminal** — just what it says... I simple pranky oldie terminal simulator.
-- **yourMission** — a mission impossible fan made online shrine.
+- **back2'97** — welcome back to '97
 
 ---
 
@@ -23,6 +22,8 @@ In a warm bath made of *content*:
 >- IF YOU HAVE ANY TROUBLE. PLEASE REPORT, I MEAN ISSUE. 
 >- **AND HEY**... DON'T FORGET TO DEBUG YOUR LIFE, WHEN NEEDED.
 ---
+
+**OUTRO:**
 
 Hey, are you alright
 Are you scrolling alone again tonight
@@ -36,3 +37,8 @@ So I'm just signing in to say
 How are you
 
 ---
+
+**CREDITS:**
+
+- messierCobalt i.e. Ray Cullen
+- Carl Sagan by Elle Cordova
